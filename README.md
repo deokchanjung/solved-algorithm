@@ -7,4 +7,5 @@
 ## 목차
 
 1. [재귀(Recursion)](<https://github.com/deokchanjung/solved-algorithm/tree/master/%EC%9E%AC%EA%B7%80(Recursion)>)
-1. [해시(Hash)](<https://github.com/deokchanjung/solved-algorithm/tree/master/%ED%95%B4%EC%8B%9C(Hash)>)
+2. [해시(Hash)](<https://github.com/deokchanjung/solved-algorithm/tree/master/%ED%95%B4%EC%8B%9C(Hash)>)
+3. [집합(Set)](<https://github.com/deokchanjung/solved-algorithm/tree/master/%EC%A7%91%ED%95%A9(Set)>)
